@@ -2,6 +2,9 @@
 
 Unity editor tool to preview fonts easily!
 
+### Installation
+- Copy the editor script to your project (into Assets/Editor/ folder) from https://github.com/unitycoder/Fontastic/tree/main/Assets/Editor/UnityLibrary/Fontastic
+
 ### Usage
 - Open the tool from menu: Tools/UnityLibrary/Fontastic
 - Select from text item in UI
