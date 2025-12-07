@@ -1,4 +1,4 @@
-# Fontastic
+# Fontastic!
 
 Unity editor tool to preview fonts easily!
 
